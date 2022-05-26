@@ -13,3 +13,10 @@ Start the dev server,
 ```bash
 $ yarn start
 ```
+
+
+## Build With esbuild
+
+```bash
+yarn esbuild
+```
